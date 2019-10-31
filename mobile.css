@@ -1,0 +1,160 @@
+@media (max-width: 480px) {
+	.red_button {
+		display: block;
+		border:3px solid #db2e1a; 
+		color:#fff;
+	 	border-radius:30px; 
+		background: -webkit-gradient(linear, 0 0, 0 100%, from(#f74a22), to(#db2e1a));
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 16px;
+		padding-right: 16px;
+		width: 100%;
+	}
+	.red_button_content {
+		font-size: 22.29px;
+		font-family: arial-bold;
+		text-shadow:0px 1px 2px black; 
+	}
+	.header-logo img {
+		max-width: 100%;
+    	height: auto;
+	}
+	.header-arrow {
+		display: none;
+	}
+	.servicing_sydney_title {
+		color: #013951;
+		font-size: 44px;
+		padding-top: 43px;
+		padding-bottom: 76px;
+	}
+	.servicing_sydney_title h1 {
+	    line-height: 0.9;
+	}
+	.sydney {
+		color: #db2f1a;
+	}
+	.we_are_mobile {
+		display: inline-block;
+		font-size: 15.5px;
+	}
+	.we_are {
+		display: none;
+	}
+	.blue_men {
+		display: none;
+	}
+	.blue_men_mobile {
+		display: block;
+		position: absolute;
+		top:30px;
+		left: 169px;
+		z-index: -1;
+	}
+	.form-horizontal {
+		position: initial;
+		margin-right: auto;
+		margin-left: auto;
+		margin-bottom: 53px;
+	}
+	.button_first {
+		margin-bottom: 24px;
+	}
+	.plumber {
+		padding-top: 38px;
+		padding-bottom: 43px;
+	}
+	.plumber_title {
+		margin-bottom: 20px;
+	}
+	.plumber_logo {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.plumber_title_content {
+		font-size: 33px;
+		text-align: center;
+	}
+	li {
+		padding-left: 16px;
+	}
+	.time, .day {
+		padding-top: 34px;
+		padding-bottom: 36px;
+	}
+	.time_titile, .day_title {
+		font-size: 36px;
+	}
+	.time_cont, .day_cont {
+		padding-bottom: 20px;
+	}
+	.including {
+		padding-top: 47px;
+		padding-bottom: 44px;
+	}
+	.including_title {
+		display: none;
+	}
+	.including_title_mobile {
+		display: block;
+		text-align: center;
+		font-family: raleway-bold;
+		font-size: 40px;
+		padding-bottom: 25px;
+	}
+	.including_grid {
+		display: inline-table;
+		left: 0px;
+		margin-bottom: 0px;
+	}
+	.element {
+		text-align: center;
+		width: 50%;
+		margin-bottom: 33px;
+	}
+	.element_logo {
+		display: block;
+		width: 100%;
+	}
+	.latest {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.including_foot {
+		font-size: 19.6px;
+	}
+	.testimonials {
+		padding-top: 46px;
+		padding-bottom: 0px;
+	}
+	.founders {
+		margin-top: 44px;
+	}
+	.TLogo {
+		margin-bottom: 44px;
+	}
+	.sheldon, .peter {
+		display: none;
+	}
+	.kevin {
+		margin-bottom: 50px;
+	}
+	.foot {
+		text-align: center;
+	}
+	.footer-nubmer {
+		display: none;
+	}
+	.footer-copyrig {
+		display: none;
+	}
+	.footer-nubmer_mobile {
+		display: block;
+		padding-top: 15px;
+	}
+	.footer-copyrig_mobile {
+		display: block;
+		padding-top: 34px;
+	}
+}
