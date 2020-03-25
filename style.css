@@ -1,43 +1,43 @@
 /*----------------------------------------------------------------------------------------*/
  @font-face {
 	font-family: lato-bold;
-	src: url(../BootstrapProj/fonts/Lato-Bold.ttf);
+	src: url(fonts/Lato-Bold.ttf);
 } 
 @font-face {
 	font-family: lato-regular;
-	src: url(../BootstrapProj/fonts/Lato-Regular.ttf);
+	src: url(fonts/Lato-Regular.ttf);
 }
 @font-face {
 	font-family: lato-semibolditalic;
-	src: url(../BootstrapProj/fonts/Lato-SemiboldItalic.ttf);
+	src: url(fonts/Lato-SemiboldItalic.ttf);
 }
 @font-face {
 	font-family: lato-italic;
-	src: url(../BootstrapProj/fonts/Lato-Italic.ttf);
+	src: url(fonts/Lato-Italic.ttf);
 }
 @font-face {
 	font-family: lato-heavy;
-	src: url(../BootstrapProj/fonts/Lato-Heavy.ttf);
+	src: url(fonts/Lato-Heavy.ttf);
 }
 @font-face {
     font-family: raleway-bold;
-    src: url(../BootstrapProj/fonts/Raleway-Bold.ttf);
+    src: url(fonts/Raleway-Bold.ttf);
 }
 @font-face {
 	font-family: raleway-regular;
-	src: url(../BootstrapProj/fonts/Raleway-Regular.ttf);
+	src: url(fonts/Raleway-Regular.ttf);
 }
 @font-face {
 	font-family: raleway-medium;
-	src: url(../BootstrapProj/fonts/Raleway-Medium.ttf);
+	src: url(fonts/Raleway-Medium.ttf);
 }
 @font-face {
 	font-family: arial-bold;
-	src: url(../BootstrapProj/fonts/arial_bold.ttf);
+	src: url(fonts/arial_bold.ttf);
 }
 @font-face {
 	font-family: myriad-regular;
-	src: url(../BootstrapProj/fonts/myriad-regylar.otf);
+	src: url(fonts/myriad-regylar.otf);
 }
 /*----------------------------------------------------------------------------------------*/
 .lato-regular {
@@ -253,7 +253,7 @@ input {
 /*------------------P-L-U-M-B-E-R--T-O--T-H-E--R-E-S-C-U-E--------------------------------*/
 .plumber {
 	padding-top: 118px;
-	background-image: url(../BootstrapProj/img/panel_2/fon.png);
+	background-image: url(img/panel_2/fon.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding-bottom: 97px; 
@@ -280,7 +280,7 @@ ul {
 	font-size: 20px;
 	list-style-type: none;
 	font-family: myriad-regular;
-	list-style-image: url(../BootstrapProj/img/panel_2/check_mark.png);
+	list-style-image: url(img/panel_2/check_mark.png);
 }
 li{
 	padding-left: 37px;
